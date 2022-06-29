@@ -50,6 +50,7 @@ public class Class {
         {
              Student s=new Student();
              s = (Student)stList.get(i);
+             stList.remove(i);
              s.setMathMarks(10+i);
              stList.add(s);
         }
