@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="279d8bac-4e06-4b13-b553-6d3a2108a929" name="Changes" comment="First Commit">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Class.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/AHC/IdeaProjects/Git_Project"
   }
 }]]></component>
   <component name="RunManager">
@@ -70,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656496168066</updated>
       <workItem from="1656496172835" duration="3444000" />
+      <workItem from="1656502929880" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1656496380929</created>
