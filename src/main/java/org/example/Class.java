@@ -54,7 +54,8 @@ public class Class {
              stList.remove(i);
              s.setMathMarks(10+i);
              stList.add(s);
-
+        }
+    }
     void printStudents(){
 
         for(int i=0;i<stList.size();i++)
