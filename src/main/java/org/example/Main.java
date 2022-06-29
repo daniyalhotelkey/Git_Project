@@ -5,6 +5,6 @@ public class Main {
 
         Class obj= new Class();
         obj.addStudents();
-        obj.printStudents();
+
     }
 }
