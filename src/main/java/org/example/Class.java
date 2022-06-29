@@ -44,5 +44,13 @@ public class Class {
 
     }
 
+    void printStudents(){
+
+        for(int i=0;i<stList.size();i++)
+        {
+            System.out.println(stList.get(i).getName() + " "+ stList.get(i).getAge() + " " + stList.get(i).getRollNumber());
+        }
+    }
+
 
 }
