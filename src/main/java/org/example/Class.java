@@ -44,5 +44,16 @@ public class Class {
 
     }
 
+    void addMarks()
+    {
+        for(int i=0 ; i<stList.size();i++)
+        {
+             Student s=new Student();
+             s = (Student)stList.get(i);
+             s.setMathMarks(10+i);
+             stList.add(s);
+        }
+    }
+
 
 }
