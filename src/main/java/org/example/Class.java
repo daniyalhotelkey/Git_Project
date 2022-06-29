@@ -44,11 +44,23 @@ public class Class {
 
     }
 
+
+    void addMarks()
+    {
+        for(int i=0 ; i<stList.size();i++)
+        {
+             Student s=new Student();
+             s = (Student)stList.get(i);
+             stList.remove(i);
+             s.setMathMarks(10+i);
+             stList.add(s);
+
     void printStudents(){
 
         for(int i=0;i<stList.size();i++)
         {
             System.out.println(stList.get(i).getName() + " "+ stList.get(i).getAge() + " " + stList.get(i).getRollNumber());
+
         }
     }
 
