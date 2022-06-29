@@ -4,6 +4,17 @@ public class Student extends Person{
 
     String rollNumber;
     int mathMarks;
+
+    Student()
+    {
+        super("",0);
+        this.rollNumber="";
+        this.mathMarks=0;
+
+    }
+
+
+
     Student(String name,int age,String rollNumber)
     {
         super(name,age);
