@@ -11,6 +11,19 @@ public class Class {
         stList=new ArrayList<Student>();
     }
 
+    public double averageMarks()
+    {
+        double avg=0.0;
+        for(int i=0; i< stList.size(); i++)
+        {
+            Student s = new Student("",0,"");
+            s=(Student)stList.get(i);
+            avg += s.getMathMarks();
+        }
+        int size= stList.size();
+        return avg/size;
+    }
+
     void addStudents()
     {
         try {

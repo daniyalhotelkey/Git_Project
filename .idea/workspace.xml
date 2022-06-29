@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="279d8bac-4e06-4b13-b553-6d3a2108a929" name="Changes" comment="First Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Class.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -51,6 +67,7 @@
     "last_opened_file_path": "C:/Users/AHC/IdeaProjects/Git_Project"
   }
 }]]></component>
+
 
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,9 +99,14 @@
       <updated>1656496168066</updated>
       <workItem from="1656496172835" duration="3444000" />
 
+      <workItem from="1656502826794" duration="103000" />
+      <workItem from="1656502969693" duration="1466000" />
+
+
       <workItem from="1656502983899" duration="944000" />
 
       <workItem from="1656502929880" duration="382000" />
+
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1656496380929</created>
