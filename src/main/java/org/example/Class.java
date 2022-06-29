@@ -44,6 +44,7 @@ public class Class {
 
     }
 
+
     void addMarks()
     {
         for(int i=0 ; i<stList.size();i++)
@@ -53,6 +54,13 @@ public class Class {
              stList.remove(i);
              s.setMathMarks(10+i);
              stList.add(s);
+
+    void printStudents(){
+
+        for(int i=0;i<stList.size();i++)
+        {
+            System.out.println(stList.get(i).getName() + " "+ stList.get(i).getAge() + " " + stList.get(i).getRollNumber());
+
         }
     }
 
